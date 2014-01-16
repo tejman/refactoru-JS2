@@ -8,5 +8,5 @@ alert(
 	"Uppercase: " + word.toUpperCase() + "\n" +
 	"Example: Here is " + word + " in a sentence." + "\n" +
 	"Subword: " + word.substring(1,4)
-	);
+);
 
